@@ -19,8 +19,8 @@ Open LockedMeMain.java and Run
 
 ### **Component Hierarchy**
 
-     File                      Description
----------------------|------------------------------------------------------------------------------                     
+     File            |          Description
+                     |                     
   LockedMeMain.java  |  This component contains the Main method. It's the entry point of the program
 ---------------------|------------------------------------------------------------------------------                     
 MenuOptions.java	 |  This component contains methods for displaying menu options.

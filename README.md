@@ -4,9 +4,9 @@
 
 Simple Java Console based program to allows user to input menu options for
 
-Displaying File/Folder structure.
-Search for File/Folder recursively.
-Add/Delete File/Folder recursively.
+_Displaying File/Folder structure\n
+ _Search for File/Folder recursively.
+  _Add/Delete File/Folder recursively.
 
 
 ### **View project locally**
@@ -35,13 +35,13 @@ To track below deliverables -
 
   2)  _Business-level operations:_
 
-        Option to add a user specified file to the application
+       _Option to add a user specified file to the application
 
-        Option to delete a user specified file from the application
+        _Option to delete a user specified file from the application
 
-        Option to search a user specified file from the application
+        _Option to search a user specified file from the application
 
-        Navigation option to close the current execution context and return to the main context
+        _Navigation option to close the current execution context and return to the main context
 
   _3) _ Option to close the application_[Phase 1 project output.pdf](https://github.com/Tanmay8399/LockedMe.com/files/8111204/Phase.1.project.output.pdf)_
 

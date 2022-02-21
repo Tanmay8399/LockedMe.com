@@ -5,8 +5,8 @@
 Simple Java Console based program to allows user to input menu options for
 
 _Displaying File/Folder structure\n
- _Search for File/Folder recursively.
-  _Add/Delete File/Folder recursively.
+    _Search for File/Folder recursively.
+        _Add/Delete File/Folder recursively.
 
 
 ### **View project locally**

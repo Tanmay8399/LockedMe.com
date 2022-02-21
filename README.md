@@ -24,11 +24,11 @@ Open LockedMeMain.java and Run
   LockedMeMain.java  |  This component contains the Main method. It's the entry point of the program
 ---------------------|--------------------------------------------------------------------                     |
 MenuOptions.java	 |  This component contains methods for displaying menu options.
- --------------------| --------------------------------------------------------------
+ --------------------|---------------------------------------------------------------
 HandleOptions.java	 |  This component contains methods for handling different options from user input and calls respective methods from FileOperations.
- --------------------| ----------------------------------------------------------------------------------------------------------------------------------
+ --------------------|----------------------------------------------------------------------------------------------------------------------------------
 FileOperations.java  |  This component defines all the operations required for displaying, searching, deleting and adding files/folder. 
----------------------| -----------------------------------------------------------------------------------------------------------------
+---------------------|-----------------------------------------------------------------------------------------------------------------
 
 
 To track below deliverables -

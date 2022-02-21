@@ -25,13 +25,11 @@ HandleOptions.java	This component contains methods for handling different option
 FileOperations.java	This component defines all the operations required for displaying, searching, deleting and adding files/folder.
 To track below deliverables -
 
-## Specification document - Product's capabilities, appearance, and user interactions
+#### Specification document - Product's capabilities, appearance, and user interactions
 
-## Java concepts being used in the project 
+##### Data Structures where sorting and searching techniques are used,file handling ,exceptional handling.
 
-## Data Structures where sorting and searching techniques are used,file handling ,exceptional handling.
-
-# Generic features and operations available: 
+######  Generic features and operations available: 
 
   1) _ Retrieving the file names in an ascending order_
 
@@ -47,7 +45,7 @@ To track below deliverables -
 
   _3) _ Option to close the application_[Phase 1 project output.pdf](https://github.com/Tanmay8399/LockedMe.com/files/8111204/Phase.1.project.output.pdf)_
 
-# Code designed to display the welcome screen. It displays:
+######  Code designed to display the welcome screen. It displays:
 
 Application name and the developer details
 
